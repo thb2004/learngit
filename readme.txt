@@ -1,2 +1,2 @@
-﻿wo shi zhong guo ren 
-hunan huan ying ni
+﻿Git is a distributed version control system.
+Git is free software
